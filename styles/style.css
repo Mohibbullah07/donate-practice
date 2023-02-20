@@ -1,0 +1,129 @@
+.header-section {
+    background-image: url(../images/donation1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 600px;
+    text-align: center;
+    color: white;
+}
+
+.header-text{
+    padding-top: 250px;
+    
+}
+
+#main-heading{
+    size: 35px;
+}
+.btn-donate{
+    background-color: tomato;
+    padding: 10px;
+    border: 1px solid thistle;
+    border-radius: 5px;
+}
+
+.donate-section{
+    text-align: center;
+    margin-top: 40px;
+    
+}
+
+.donate-amount{
+    display: flex;
+    align-items: center;
+    justify-content: space-evenly;
+}
+#amount-200{
+    border: 3px solid tomato;
+    background-color: rgb(228, 148, 134);
+    border-radius: 5px;
+    padding: 30px;
+}
+
+#other-amount{
+    color: gray;
+}
+
+#hr{
+    margin-left: 300px;
+    margin-right: 300px;
+}
+
+.donate-text{
+    text-align: center;
+}
+
+.donate-plan{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+   
+    
+}
+
+.donate-1{
+    background-color: rgb(161, 161, 223);
+    padding: 10px;
+    margin-right: 20px;
+}
+.donate-2{
+    background-color: rgb(223, 112, 208);
+    padding: 10px;
+    margin-right: 20px;
+}
+.donate-3{
+    background-color: lightgoldenrodyellow;
+    padding: 10px;
+}
+
+.our-works-section{
+    display: flex;
+    margin-top: 30px;
+    justify-content: center;
+    
+}
+
+.our-works-text{
+    margin-right: 20px;
+}
+
+.btn-help{
+    color: aliceblue;
+    size: 25px;
+    
+}
+.our-works-section-2{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+}
+
+#suvive-text{
+    margin-left: 40px;
+    padding: 20px;
+}
+
+.get-updates-section{
+    text-align: center;
+    margin-top: 25px;
+}
+.email-div{
+    background-color: rgb(238, 175, 164);
+    padding: 30px;
+    margin-left:300px ;
+    margin-right:300px ;
+}
+#our-email{
+    padding: 10px;
+    background-color: ghostwhite;
+    border: 1px solid lightblue;
+    border-radius:5px ;
+}
+
+.footer{
+    color: white;
+    background-color: black;
+    text-align: center;
+    padding: 30px;
+    margin-top: 20px;
+}
